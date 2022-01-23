@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @milenavdo2
+- 👋 Hi, I’m Milena Oliveira
 - 👀 I’m interested in job
 - 🌱 I’m currently learning Java Script and all for front-end
 - 💞️ I’m looking to collaborate on front-end for you
